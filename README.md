@@ -17,7 +17,7 @@ values, the relationships among them, and the functions or operations that can b
 the data.
 
 * [Linked List](https://github.com/iCell/swift-algorithms/tree/master/Algorithms.playground/Sources/DataStructure/LinkedList)
-* Queue
+* [Queue](https://github.com/iCell/swift-algorithms/tree/master/Algorithms.playground/Sources/DataStructure/Queue)
 * Stack
 * Hash Table
 * Heap
