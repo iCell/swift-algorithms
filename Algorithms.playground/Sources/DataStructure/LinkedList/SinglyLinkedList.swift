@@ -1,8 +1,8 @@
 import Foundation
 
 public class SinglyLinkedListNode<T: Equatable> {
-    let value: T
-    var next: SinglyLinkedListNode?
+    public let value: T
+    public var next: SinglyLinkedListNode?
 
     public init(value: T, next: SinglyLinkedListNode? = nil) {
         self.value = value
@@ -11,8 +11,8 @@ public class SinglyLinkedListNode<T: Equatable> {
 }
 
 public class SinglyLinkedList<T: Equatable> {
-    private(set) var head: SinglyLinkedListNode<T>?
-    private(set) var tail: SinglyLinkedListNode<T>?
+    public var head: SinglyLinkedListNode<T>?
+    public var tail: SinglyLinkedListNode<T>?
 
     public init() {
         head = nil
