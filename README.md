@@ -18,7 +18,7 @@ the data.
 
 * [Linked List](https://github.com/iCell/swift-algorithms/tree/master/Algorithms.playground/Sources/DataStructure/LinkedList)
 * [Queue](https://github.com/iCell/swift-algorithms/tree/master/Algorithms.playground/Sources/DataStructure/Queue)
-* Stack
+* [Stack](https://github.com/iCell/swift-algorithms/tree/master/Algorithms.playground/Sources/DataStructure/Stack)
 * Hash Table
 * Heap
 * Priority Queue
